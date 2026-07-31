@@ -1,7 +1,8 @@
 // Reescreva alguns exercícios usando variáveis Boolean para deixar o código mais legível.
 
 fun main(){
-    val idade = 20
+    println("Digite sua idade:")
+    val idade = readln().toInt()
     val possuiCarteiraDeMotorista = true
     val podeDirigir = idade >= 18 && possuiCarteiraDeMotorista
     if (podeDirigir) {
