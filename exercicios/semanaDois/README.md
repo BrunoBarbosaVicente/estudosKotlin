@@ -4,7 +4,7 @@
 
 - [x]  `if`
 - [x]  `else`
-- [ ]  `when`
+- [x] `when`
 - [ ]  Git
 - [ ]  GitHub
 - [ ]  Commits

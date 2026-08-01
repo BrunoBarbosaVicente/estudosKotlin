@@ -64,11 +64,12 @@ Construir uma base sólida antes de entrar em Android.
 
 - [x]  `if`
 - [x]  `else`
-- [ ]  `when`
+- [x]  `when`
 - [ ]  Git
 - [ ]  GitHub
 - [ ]  Commits
 - [ ]  Branches
+- [ ]  README.md
 
 ### Exercícios
 
@@ -93,6 +94,7 @@ Construir uma base sólida antes de entrar em Android.
 - [ ]  `for`
 - [ ]  `break`
 - [ ]  `continue`
+- [ ]  `return`
 
 ### Exercícios
 
@@ -138,6 +140,7 @@ Construir uma base sólida antes de entrar em Android.
 - [ ]  MutableList
 - [ ]  Set
 - [ ]  Map
+- [ ]  MutableMap
 
 ### Exercícios
 
@@ -182,6 +185,7 @@ Construir uma base sólida antes de entrar em Android.
 - [ ]  Construtores
 - [ ]  Encapsulamento
 - [ ]  Métodos
+- [ ]  this
 
 ### Exercícios
 
@@ -246,6 +250,11 @@ Projeto:
 - [ ]  filter
 - [ ]  reduce
 - [ ]  forEach
+- [ ]  sortedBy
+- [ ]  sortedDescending
+- [ ]  any
+- [ ]  all
+- [ ]  find
 
 Projeto:
 
@@ -351,6 +360,7 @@ Projeto:
 ## Semana 18
 
 - [ ]  Material 3
+- [ ]  Navigation Compose
 
 Projeto:
 
@@ -407,6 +417,7 @@ Projeto:
 
 - [ ]  JPA
 - [ ]  Hibernate
+- [ ]  swagger / OpenAPI
 
 ---
 
@@ -569,9 +580,9 @@ Antes você terminava aprendendo apenas tecnologias. Eu acrescentaria uma fase p
 
 ## Iniciante
 
-- [ ]  Calculadora
+- [ ]  Calculadora CLI
 - [ ]  Sistema de Mercado
-- [ ]  Agenda
+- [ ]  Agenda CLI
 - [ ]  Lista de Tarefas
 
 ---
@@ -581,7 +592,7 @@ Antes você terminava aprendendo apenas tecnologias. Eu acrescentaria uma fase p
 - [ ]  App Financeiro
 - [ ]  App de Notas
 - [ ]  API REST
-- [ ]  Sistema Bancário
+- [ ]  Sistema Bancário CLI
 
 ---
 
@@ -591,6 +602,18 @@ Antes você terminava aprendendo apenas tecnologias. Eu acrescentaria uma fase p
 - [ ]  Clone iFood
 - [ ]  Streaming App
 - [ ]  Gerenciador Financeiro
+
+---
+
+# Fase 8 - Portfólio
+
+- [ ]  README proficional
+- [ ]  Organização do GitHub
+- [ ]  Perfil GitHub
+- [ ]  LinkedIn
+- [ ]  Currículo
+- [ ]  Publicação dos projetos
+- [ ]  Preparação para entrevistas
 
 ---
 
