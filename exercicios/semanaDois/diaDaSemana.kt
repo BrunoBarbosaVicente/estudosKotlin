@@ -11,5 +11,5 @@ fun main() {
         6 -> println("Sexta-feira")
         7 -> println("Sábado")
         else -> println("Número inválido. Digite um número de 1 a 7.")
-    }clear
+    }
 }
