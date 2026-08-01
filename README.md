@@ -607,7 +607,7 @@ Antes você terminava aprendendo apenas tecnologias. Eu acrescentaria uma fase p
 
 # Fase 8 - Portfólio
 
-- [ ]  README proficional
+- [ ]  README profissional
 - [ ]  Organização do GitHub
 - [ ]  Perfil GitHub
 - [ ]  LinkedIn
