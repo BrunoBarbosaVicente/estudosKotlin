@@ -5,10 +5,11 @@
 - [x]  `if`
 - [x]  `else`
 - [x] `when`
-- [ ]  Git
-- [ ]  GitHub
-- [ ]  Commits
-- [ ]  Branches
+- [x]  Git
+- [x]  GitHub
+- [x]  Commits
+- [x]  Branches
+- [ ]  README.md
 
 ### Exercícios
 

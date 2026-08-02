@@ -65,11 +65,11 @@ Construir uma base sólida antes de entrar em Android.
 - [x]  `if`
 - [x]  `else`
 - [x]  `when`
-- [ ]  Git
-- [ ]  GitHub
-- [ ]  Commits
-- [ ]  Branches
-- [ ]  README.md
+- [x]  Git
+- [x]  GitHub
+- [x]  Commits
+- [x]  Branches
+- [x]  README.md
 
 ### Exercícios
 
