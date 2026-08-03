@@ -9,7 +9,7 @@
 - [x]  GitHub
 - [x]  Commits
 - [x]  Branches
-- [ ]  README.md
+- [x]  README.md
 
 ### Exercícios
 
@@ -17,10 +17,10 @@
 
 - [x]  Aprovação escolar
  
-- [ ]  Caixa eletrônico
+- [x]  Caixa eletrônico
 
-- [ ]  Menu interativo
+- [x]  Menu interativo
 
 ### Projeto
 
-- [ ]  **Sistema de Login**
+- [x]  **Sistema de Login**

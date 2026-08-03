@@ -77,13 +77,13 @@ Construir uma base sólida antes de entrar em Android.
 
 - [x]  Aprovação escolar
  
-- [ ]  Caixa eletrônico
+- [x]  Caixa eletrônico
 
-- [ ]  Menu interativo
+- [x]  Menu interativo
 
 ### Projeto
 
-- [ ]  **Sistema de Login**
+- [x]  **Sistema de Login**
 
 ## Semana 3 — Loops
 
