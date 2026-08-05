@@ -6,5 +6,4 @@ fun main() {
         senhaDigitada = readln()
     }
     println("Senha correta! Acesso concedido.")
-
 }
