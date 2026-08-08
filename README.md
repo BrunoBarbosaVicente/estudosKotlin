@@ -89,8 +89,8 @@ Construir uma base sólida antes de entrar em Android.
 
 ### Estudar
 
-- [ ]  `while`
-- [ ]  `do while`
+- [x]  `while`
+- [x]  `do while`
 - [ ]  `for`
 - [ ]  `break`
 - [ ]  `continue`
@@ -98,8 +98,8 @@ Construir uma base sólida antes de entrar em Android.
 
 ### Exercícios
 
-- [ ]  Tabuada
-- [ ]  Menu infinito
+- [x]  Tabuada
+- [x]  Menu infinito
 - [ ]  Contador
 - [ ]  Jogo de adivinhação
 
