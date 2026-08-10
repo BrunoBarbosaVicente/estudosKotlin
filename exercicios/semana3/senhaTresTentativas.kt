@@ -23,5 +23,6 @@ fun main() {
     } while (!loginRealizado)
         if (loginRealizado){
             println("Login realizado")
+            println("Seja bem vindo")
         }        
 }
