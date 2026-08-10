@@ -92,7 +92,7 @@ Construir uma base sólida antes de entrar em Android.
 - [x]  `while`
 - [x]  `do while`
 - [ ]  `for`
-- [ ]  `break`
+- [x]  `break`
 - [ ]  `continue`
 - [ ]  `return`
 

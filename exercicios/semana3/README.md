@@ -5,7 +5,7 @@
 - [x]  `while`
 - [x]  `do while`
 - [ ]  `for`
-- [ ]  `break`
+- [x]  `break`
 - [ ]  `continue`
 - [ ]  `return`
 
