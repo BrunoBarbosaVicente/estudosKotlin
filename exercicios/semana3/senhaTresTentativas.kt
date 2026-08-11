@@ -14,7 +14,7 @@ fun main() {
             if (entradaUser == usuario && entradaSenha == senha){
                 loginRealizado = true
             } else {
-                println("Login incorreto, restam ${contador} tentativas")                
+                println("Login incorreto, restam ${contador} tentativas.")                
                 if (contador == 0){
                     println("conta bloqueada.")
                     break 
@@ -22,7 +22,7 @@ fun main() {
             } 
     } while (!loginRealizado)
         if (loginRealizado){
-            println("Login realizado")
-            println("Seja bem vindo")
+            println("Login realizado.")
+            println("Seja bem vindo.")
         }        
 }
