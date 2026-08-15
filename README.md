@@ -91,21 +91,21 @@ Construir uma base sólida antes de entrar em Android.
 
 - [x]  `while`
 - [x]  `do while`
-- [ ]  `for`
+- [x]  `for`
 - [x]  `break`
-- [ ]  `continue`
-- [ ]  `return`
+- [x]  `continue`
+- [x]  `return`
 
 ### Exercícios
 
 - [x]  Tabuada
 - [x]  Menu infinito
-- [ ]  Contador
-- [ ]  Jogo de adivinhação
+- [x]  Contador
+- [x]  Jogo de adivinhação
 
 ### Projeto
 
-- [ ]  **Sistema Bancário em Terminal**
+- [x]  **Sistema Bancário em Terminal**
 
 ---
 

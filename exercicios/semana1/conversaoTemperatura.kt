@@ -1,5 +1,6 @@
 fun main() {
-    val peso = 103.0
-    val altura = 1.85
-    println("Seu IMC é: %.2f".format(peso / (altura * altura)))
+    val celsius = 32.0
+    val fahrenheit = (celsius * 9 / 5) + 32
+    println("temperatura em Celsius: $celsius")
+    println("temperatura em Fahrenheit: $fahrenheit")
 }

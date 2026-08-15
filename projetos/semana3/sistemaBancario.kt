@@ -34,8 +34,7 @@ fun main (){
                         println("Seu novo saldo é de $saldoConta")
                     }
                 }
-            0 -> { println("Saindo do sistema...")
-                    continue
+            0 -> { println("Saindo do sistema...")    
                 }
             else -> { println("Opção invalida")
                 }
