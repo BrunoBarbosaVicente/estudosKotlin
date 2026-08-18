@@ -40,5 +40,5 @@ fun main (){
                 }
         }        
     } while (opcao != 0)
-    println("programa encerrado")       
+    println("programa encerrado")
 }
