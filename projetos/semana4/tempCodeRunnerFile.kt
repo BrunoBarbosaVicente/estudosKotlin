@@ -30,15 +30,14 @@ fun divisao(vararg numeros: Int): Int {
     }
     return resultado
 }
-fun calcular(n1: Int, n2: Int, operador: String): Int{
-    val resultado = when (operador){
+fun calcular(n1: Int, n2: Int, operador: String){
+    when (operador){
         "+" -> somar(n1, n2)
         "-" -> subtracao(n1, n2)
         "*","x" -> multiplicacao(n1, n2)
         "/" -> divisao(n1, n2)
-        else -> 0
+        else -> "Operador invalido"
     }
-    return resultado
 }
 fun main () {
     println("==================")
@@ -50,6 +49,5 @@ fun main () {
     val n2 = readln().toInt()
     print("Digite a operação: ")
     val operador = readln()
-    val resultado = calcular(n1, n2, operador)
-    println(resultado)
+    println(calcular(n1, n2, operador))
 }
