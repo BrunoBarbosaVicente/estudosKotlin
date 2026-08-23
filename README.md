@@ -113,16 +113,16 @@ Construir uma base sólida antes de entrar em Android.
 
 ### Estudar
 
-- [ ]  Parâmetros
-- [ ]  Retorno
-- [ ]  Sobrecarga
-- [ ]  `vararg`
-- [ ]  Escopo
+- [x]  Parâmetros
+- [x]  Retorno
+- [x]  Sobrecarga
+- [x]  `vararg`
+- [x]  Escopo
 
 ### Exercícios
 
-- [ ]  Calculadora modular
-- [ ]  Conversores
+- [x]  Calculadora modular
+- [x]  Conversores
 - [ ]  Sistema de pedidos
 
 ### Projeto
