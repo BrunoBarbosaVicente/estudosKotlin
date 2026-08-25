@@ -12,8 +12,8 @@
 
 - [x]  Calculadora modular
 - [x]  Conversores
-- [ ]  Sistema de pedidos
+- [x]  Sistema de pedidos
 
 ### Projeto
 
-- [ ]  **Biblioteca de Funções Matemáticas**
+- [x]  **Biblioteca de Funções Matemáticas**
