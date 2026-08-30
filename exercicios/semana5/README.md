@@ -2,7 +2,7 @@
 
 ### Estudar
 
-- [ ]  Arrays
+- [x]  Arrays
 - [ ]  List
 - [ ]  MutableList
 - [ ]  Set

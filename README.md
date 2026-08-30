@@ -136,7 +136,7 @@ Construir uma base sólida antes de entrar em Android.
 
 ### Estudar
 
-- [ ]  Arrays
+- [x]  Arrays
 - [ ]  List
 - [ ]  MutableList
 - [ ]  Set
