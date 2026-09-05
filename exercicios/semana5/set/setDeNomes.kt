@@ -5,7 +5,5 @@ fun main () {
     }
     println(nomes.size)
     println(nomes.contains("Maria"))
-    println(nomes.contains("Pedro"))
-    
-    
+    println(nomes.contains("Pedro")) 
 }
