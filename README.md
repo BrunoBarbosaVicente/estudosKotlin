@@ -137,21 +137,21 @@ Construir uma base sólida antes de entrar em Android.
 ### Estudar
 
 - [x]  Arrays
-- [ ]  List
-- [ ]  MutableList
-- [ ]  Set
-- [ ]  Map
-- [ ]  MutableMap
+- [x]  List
+- [x]  MutableList
+- [x]  Set
+- [x]  Map
+- [x]  MutableMap
 
 ### Exercícios
 
-- [ ]  Agenda
-- [ ]  Lista de tarefas
-- [ ]  Estoque
+- [x]  Agenda
+- [x]  Lista de tarefas
+- [x]  Estoque
 
 ### Projeto
 
-- [ ]  **Sistema de Estoque**
+- [x]  **Sistema de Estoque**
 
 ---
 
