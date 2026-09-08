@@ -159,11 +159,13 @@ Construir uma base sólida antes de entrar em Android.
 
 ### Estudar
 
-- [ ]  `?`
-- [ ]  `?:`
-- [ ]  `!!`
-- [ ]  Safe Call
-- [ ]  Elvis Operator
+- [ ]  O que é `null`
+- [ ]  `?` Tipos nullable
+- [ ]  Verificação if (valor != null)
+- [ ]  `?.` Safe call
+- [ ]  `?:` Elvis operator
+- [ ]  `!!` non-null assertion
+- [ ]  `let` com nulable
 
 ### Exercícios
 
