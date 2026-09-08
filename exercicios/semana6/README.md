@@ -2,10 +2,10 @@
 
 ### Estudar
 
-- [ ]  O que é `null`
-- [ ]  `?` Tipos nullable
-- [ ]  `?.` Safe call
-- [ ]  `?:` Elvis operator
+- [x]  O que é `null`
+- [x]  `?` Tipos nullable
+- [x]  `?.` Safe call
+- [x]  `?:` Elvis operator
 - [ ]  `!!` non-null assertion
 - [ ]  `let` com nulable
 
