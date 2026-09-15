@@ -161,7 +161,7 @@ Construir uma base sólida antes de entrar em Android.
 
 - [ ]  O que é `null`
 - [ ]  `?` Tipos nullable
-- [ ]  Verificação if (valor != null)
+- [ ]  Verificação `if (valor != null)`
 - [ ]  `?.` Safe call
 - [ ]  `?:` Elvis operator
 - [ ]  `!!` non-null assertion
