@@ -11,10 +11,10 @@
 
 ### Exercícios
 
-- [ ]  Cadastro
-- [ ]  Validações
-- [ ]  Busca de usuário
+- [x]  Cadastro
+- [x]  Validações
+- [x]  Busca de usuário
 
 ### Projeto
 
-- [ ]  **Cadastro de Clientes**
+- [x]  **Cadastro de Clientes**
