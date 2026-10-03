@@ -11,7 +11,7 @@ class Programador(nome: String) : Funcionario(nome){
     }
 }
 class Suporte (nome: String) : Funcionario(nome){
-    override fun trabalhar(){ // override acessa o metodo da classe pai, se o metodo estiver declarado como open.
+    override fun trabalhar(){ // override altera o metodo da classe pai, se o metodo estiver declarado como open.
         super.trabalhar()  // super.trabalhar executa o metodo da classe pai mesmo a class tendo sua propria execução.
         println("$nome começou a prestar um suporte.")
     }
